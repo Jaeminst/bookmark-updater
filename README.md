@@ -35,7 +35,7 @@ bookmark-updater/
  ├── manifest.json
  ├── popup.html
  ├── popup.js
- ├── icon.png (아이콘 이미지)
+ └── icon.png (아이콘 이미지)
 ```
 
 2. `manifest.json`에서 `host_permissions` 항목의 외부 URL을 사용 환경에 맞게 수정합니다:
@@ -75,7 +75,7 @@ bookmark-updater/
  ├── manifest.json # Chrome 확장 프로그램 설정 파일
  ├── popup.html # 확장 프로그램의 UI
  ├── popup.js # 확장 프로그램의 기능 로직
- ├── icon.png # 확장 프로그램 아이콘
+ └── icon.png # 확장 프로그램 아이콘
 ```
 
 ---
